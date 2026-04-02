@@ -34,7 +34,7 @@ Understanding IAM policies
 
 IAM Policies are like rules that determine who can do what in our AWS Account. We're using policies today to control who has access to our production/environment instance
 
-The policy I set up
+**The policy I set up**
 
 For this project, I’ve set up a policy using JSON
 
